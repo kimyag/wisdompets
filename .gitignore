@@ -1,0 +1,5 @@
+
+wisdompets/wisdompets/settings.py
+*.xml
+.idea/wisdompets.iml
+.DS_Store
